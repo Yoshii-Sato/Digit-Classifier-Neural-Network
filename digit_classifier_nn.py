@@ -1,3 +1,11 @@
+# -----------------------------------------------------------------------------
+# This file includes portions of code from DeepLearningPython by Michał Dobrzański
+# Original Source: https://github.com/MichalDanielDobrzanski/DeepLearningPython
+#
+# MIT License
+# Copyright (c) 2023 Michał Dobrzański
+# -----------------------------------------------------------------------------
+
 import numpy as np
 
 class Network(object):
